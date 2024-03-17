@@ -54,7 +54,7 @@ nav {
 }
 
 header {
-    background-image: url(resources/pictures/blurry7.jpg);
+    background-image: url(/resources/pictures/blurry7.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -262,7 +262,7 @@ div#slider figure {
 }
 
 .box_pozadie {
-    background-image: url(resources/pictures/blurry7.jpg);
+    background-image: url(/resources/pictures/blurry7.jpg);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
