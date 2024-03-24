@@ -8,7 +8,7 @@ In this assignment I had to make a portfolio with my best works from school.
 
 
 ## 🔗 Link
-[Portfolio](https:baliba.samuelbanczik.studenthosting.sk)
+[Portfolio](http://banczikbaliba.samuelbanczik.studenthosting.sk/)
 
 
 
