@@ -1,10 +1,9 @@
-
 # Hi, I´m Samuel Banczík! 👋
 
 
 ### and this is my school portfolio
 
-In this assignment I had to make a portfolio with my best works from school.
+In this assignment I had to make a portfolio with my best works from school. The portfolio was made in my mother tongue.
 
 
 ## 🔗 Link
@@ -15,4 +14,3 @@ In this assignment I had to make a portfolio with my best works from school.
 ## Feedback
 
 If you have any feedback, please reach out to me at samuelbanczik@gmail.com
-
